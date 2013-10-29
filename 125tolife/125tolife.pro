@@ -1,2 +1,2 @@
 SOURCES += main.cpp
-QT      += core widgets
+QT      += core widgets opengl
